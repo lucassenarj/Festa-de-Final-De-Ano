@@ -1,39 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:padding="15dp"
-    tools:context="com.lucassena.festafimdeano.MainActivity">
+    android:background="@drawable/background"
+    tools:context="com.lucassena.festafimdeano.views.MainActivity">
 
     <TextView
+        android:id="@+id/text_label_today"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hoje" />
+        android:text="@string/hoje"
+        android:textColor="@color/colorPrimaryText"
+        android:textSize="20sp" />
 
     <TextView
         android:id="@+id/text_today"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hoje" />
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/text_label_today"
+        android:text=""
+        android:textColor="@color/colorPrimaryText"
+        android:textSize="25sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/text_label_today"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/colorDivider" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/dias_restantes_para_o_fim_do_ano" />
+        android:layout_above="@+id/text_days_left"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="120dp"
+        android:text="@string/dias_restantes_para_o_fim_do_ano"
+        android:textSize="20sp" />
 
     <TextView
         android:id="@+id/text_days_left"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/dias_restantes_para_o_fim_do_ano" />
-    
+        android:layout_centerInParent="true"
+        android:padding="20dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:text=""
+        android:textSize="40dp" />
+
     <Button
         android:id="@+id/button_confirm"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Sim/Não/Não Confirmado" />
+        android:layout_alignParentBottom="true"
+        android:padding="20dp"
+        android:background="@drawable/round_corner_button"
+        android:textColor="@color/colorTextWhite"
+        android:text="Sim/Não/Não Confirmado"
+        android:textSize="20sp" />
 
-</LinearLayout>
+</RelativeLayout>

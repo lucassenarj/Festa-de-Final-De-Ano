@@ -2,6 +2,78 @@
 <items version="2" >
 
     <item
+        is-multidex="true"
+        jar="C:\Users\Juarez\.android\build-cache\7f5497e9e03e8d92a00319f92f84a355d5682bdc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_863888652ef6bb163314c5608c6d88484e434e7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juarez\.android\build-cache\ed3baebbe87960a9e5c06855ee1b5604bf3c1d1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\pre-dexed\debug\classes_613a6037fef339f7401572c30374495f7e6fb2b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juarez\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_42004526187b46717942814b5af4cb03263d86df.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3edc1d04c00aaf19e580740169546cd9d0b22368\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25081b3677b8b6f4a5b2dbde6d700cbb229548d2">
+        <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ba1293edfc2df2912aaa4e561b9ba8ae91e836f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Juarez\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_42004526187b46717942814b5af4cb03263d86df\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juarez\.android\build-cache\a83943e3eeb2706890f2a2d627bebce7b42f7ddc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\pre-dexed\debug\classes_41b0373da663cd23319a12db2c7ebeab48f4b493.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Juarez\.android\build-cache\a83943e3eeb2706890f2a2d627bebce7b42f7ddc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41b0373da663cd23319a12db2c7ebeab48f4b493\classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="C:\Users\Juarez\.android\build-cache\3e2c7ebacc8f3ddf44da9a0078485d94893fa506\output\jars\classes.jar"
         jumboMode="false"
@@ -20,13 +92,13 @@
         <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\pre-dexed\debug\classes_c095594dd6f033233e81658fd6572feeda971f1f.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Juarez\.android\build-cache\ed3baebbe87960a9e5c06855ee1b5604bf3c1d1e\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Juarez\.android\build-cache\b070e51cc0a1512f78161ec7b4c041be26ad0750\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\pre-dexed\debug\classes_613a6037fef339f7401572c30374495f7e6fb2b5.jar" />
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c095594dd6f033233e81658fd6572feeda971f1f\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -38,13 +110,13 @@
         <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\pre-dexed\debug\classes_863888652ef6bb163314c5608c6d88484e434e7b.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Juarez\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Juarez\.android\build-cache\1c547e20e3907ba5eacab23b2ed1cc296b42e4c3\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_42004526187b46717942814b5af4cb03263d86df.jar" />
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_669df50308b39ca6ac8c094b9cc22ee527e4ea1c\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -57,21 +129,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Juarez\.android\build-cache\a83943e3eeb2706890f2a2d627bebce7b42f7ddc\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\pre-dexed\debug\classes_41b0373da663cd23319a12db2c7ebeab48f4b493.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Juarez\.android\build-cache\dcc5b5e7cab3efd750aa07de1c494d8a1985ee0c\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
         <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\pre-dexed\debug\classes_c7ee273d825917ca8a4f2eb89a33e177e5043b27.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Juarez\.android\build-cache\dcc5b5e7cab3efd750aa07de1c494d8a1985ee0c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7ee273d825917ca8a4f2eb89a33e177e5043b27\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -90,6 +162,15 @@
         revision="26.0.1"
         sha1="952944218ecedea1554a513dec0c14d570642843">
         <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\pre-dexed\debug\classes_60ddb8979afd71347505fd1b14452d369a4df51d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Juarez\.android\build-cache\1330ba759f4b94f21db831aa4b236279d179e317\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\lucas\Android\FestaFimDeAno\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34db58533ffc5184cfa6a1f8b623f2a32aa1fee5\classes.dex" />
     </item>
     <item
         is-multidex="false"
